@@ -1,9 +1,10 @@
 # pcgra-reference-architecture-for-pcg-data
 Repository for storing supplementary data of the paper "PCGRA: A Reference Architecture for Procedural Content Generation in Digital Games"
 
-files are presented as follows:
+Files are presented as follows:
 
 | file                                                   | description                                        | language |
+|--|--|--|
 | Apresentacao PCG-RA Video.mkv                          | file used in the PCGRA presentation during PROSARA | pt |
 | Apresentação PCG-RA Slides.pdf                         | file used in the PCGRA presentation during PROSARA | pt |
 | Apresentação PROSA-RA.docx                             | file used in the PCGRA presentation during PROSARA | pt |
