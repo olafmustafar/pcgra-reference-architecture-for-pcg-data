@@ -8,8 +8,8 @@ Files are presented as follows:
 | Systematic Mapping.ods                                 | systematic mapping performed in this study         | en/pt |
 | Apresentacao PCG-RA Video.mkv                          | file used in the PCGRA presentation during PROSARA | pt    |
 | Apresentação PCG-RA Slides.pdf                         | file used in the PCGRA presentation during PROSARA | pt    |
-| PROSARA checklist translated.pdf                       | results from the checklist performend in PROSARA   | pt    |
-| PROSARA checklist.pdf                                  | checklist translated to english                    | en    |
+| PROSARA checklist translated.pdf                       | results from the checklist performend in PROSARA   | en    |
+| PROSARA checklist.pdf                                  | checklist translated to english                    | pt    |
 | Apresentação PCG-RA V1.docx                            | old PCGRA design document                          | pt    |
 | Apresentação PCG-RA V1.pdf                             | old PCGRA design document                          | pt    |
 | Apresentação PROSA-RA.docx                             | new PCGRA design document                          | pt    |
